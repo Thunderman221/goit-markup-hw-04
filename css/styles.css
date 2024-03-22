@@ -134,6 +134,27 @@ ul {
 }
 
 /* section 2 */
+.sec-two {
+  padding: 120px 0;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+.sec-two-list {
+  gap: 24px;
+  display: flex;
+}
+.sec-two-list-item {
+  width: calc((100% - 72px) / 4);
+  margin-bottom: 8px;
+}
 .sec-two-list-p {
   font-size: 16px;
   line-height: 1.5;
