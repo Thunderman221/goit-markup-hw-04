@@ -23,8 +23,10 @@ ul {
   padding: 0 15px;
 }
 /* header */
-.header-container {
+.header {
   border-bottom: 1px solid #e7e9fc;
+}
+.header-container {
   display: flex;
 }
 .navigator {
@@ -53,6 +55,7 @@ ul {
 }
 .logo-list-item {
   margin-right: 40px;
+  padding: 24px 0;
 }
 .list-item-last {
   margin-right: 0;
