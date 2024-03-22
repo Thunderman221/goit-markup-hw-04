@@ -19,6 +19,7 @@ img {
 }
 /* header */
 .header-container {
+  border-bottom: 1px solid #e7e9fc;
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
