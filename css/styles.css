@@ -55,7 +55,8 @@ ul {
 }
 .logo-list-item {
   margin-right: 40px;
-  padding: 24px 0;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .list-item-last {
   margin-right: 0;
