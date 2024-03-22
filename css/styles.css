@@ -215,7 +215,7 @@ ul {
 /* section 4 */
 .sec-four {
   padding-top: 120px;
-  margin-bottom: 72px;
+  padding-bottom: 120px;
 }
 .sec-four-list {
   display: flex;
@@ -257,6 +257,7 @@ ul {
 /* footer */
 .footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 .footer-logo {
   font-family: "Raleway", sans-serif;
@@ -267,6 +268,8 @@ ul {
   text-transform: uppercase;
   text-decoration: none;
   color: #4d5ae5;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-logo-span {
   color: #f4f4fd;
@@ -275,4 +278,5 @@ ul {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
