@@ -155,7 +155,6 @@ ul {
 }
 .sec-two-list-item {
   width: calc((100% - 72px) / 4);
-  margin-bottom: 8px;
 }
 .sec-two-list-p {
   font-size: 16px;
