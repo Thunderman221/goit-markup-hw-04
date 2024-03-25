@@ -7,12 +7,22 @@ body {
 img {
   display: block;
 }
+h1,
+h2,
+h3 {
+  margin: 0;
+  margin-bottom: 0;
+}
+p {
+  margin: 0;
+}
 .buttom {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
+  margin: 0 auto;
 }
 ul {
   list-style: none;
@@ -31,6 +41,8 @@ ul {
 }
 .header-container {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .navigator {
   display: flex;
@@ -111,6 +123,7 @@ ul {
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px;
+  margin: auto 48px;
 }
 .button {
   background-color: #4d5ae5;
