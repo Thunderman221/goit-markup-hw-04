@@ -55,8 +55,7 @@ ul {
 }
 .logo-list-item {
   margin-right: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding: 24px 0;
 }
 .list-item-last {
   margin-right: 0;
@@ -77,6 +76,7 @@ ul {
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .header-list-ref:hover,
 .header-list-ref:focus {
