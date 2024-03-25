@@ -224,7 +224,7 @@ ul {
   row-gap: 48px;
 }
 .sec-four-list-item {
-  width: calc((100% - 48px) / 3);
+  width: calc((100% - (2 * 24px + 48px)) / 3);
 }
 .sec-four-header-two {
   font-size: 36px;
