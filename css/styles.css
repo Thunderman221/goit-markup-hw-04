@@ -387,10 +387,10 @@ ul {
   display: flex;
   justify-content: center;
   align-items: baseline;
-  margin-right: 120px;
 }
 .footer-container-logo {
   flex: 1;
+  margin-right: 120px;
 }
 /* .sm-container {
   flex: 1;
