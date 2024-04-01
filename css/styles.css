@@ -265,6 +265,8 @@ ul {
   background-color: #ffffff;
   flex-basis: calc((100% - 3 * 24px));
   border-radius: 0px 0px 4px 4px;
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .worker {
@@ -337,8 +339,6 @@ ul {
 }
 .sec-four-list-item:hover .image-paragraph {
   transform: translateY(0%);
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .sec-four-list-item:hover {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
